@@ -5,11 +5,7 @@
 	"repository": "https://github.com/makifoxgirl/rembg-node",
 	"author": "Maki",
 	"license": "MIT",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
-	"files": [
-		"/dist"
-	],
+	"main": "src/index.ts",
 	"scripts": {
 		"start": "tsc -w",
 		"build": "tsc",
